@@ -1,0 +1,1 @@
+## Implementa um programa em C que usa uma árvore binária de busca. O usuário pode realizar várias operações na árvore, como inserir um nó, remover um nó e fazer buscas em pré-ordem, em ordem e pós-ordem. Um menu interativo no terminal é usado para realizar as operações.
